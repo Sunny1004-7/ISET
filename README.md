@@ -136,8 +136,8 @@ ISET（Intelligent Smart Education Technology）是一个基于AI多智能体的
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/Sunny1004-7/SUNNY-AITEACH.git
-cd SUNNY-AITEACH
+git clone https://github.com/Sunny1004-7/ISET.git
+cd ISET
 ```
 
 #### 2. 前端安装
@@ -485,57 +485,6 @@ llm_config = {
 - [前端开发指南](ISET-frontend/README.md)
 - [习题生成模块](exeGen/README.md)
 - [课程推荐模块](courseRec/Multi-Agent-for-Course-Rec/README.md)
-
----
-
-## 🎓 学术价值
-
-### 创新点
-
-1. **多智能体协作机制**
-   - 首次将AutoGen框架应用于教育领域习题生成
-   - 实现知识追踪、生成、评估的智能体分工协作
-
-2. **个性化学习路径**
-   - 基于知识图谱的学习状态建模
-   - 动态生成适配学生能力的习题
-
-3. **情绪感知教学**
-   - 苏格拉底式问答融合情绪识别
-   - ICECoT流程：情绪分析→意图推断→策略选择→响应生成
-
-4. **大规模知识图谱应用**
-   - Neo4j存储课程知识关系
-   - 支持多维度知识图谱可视化
-
-### 应用场景
-
-- ✅ 在线教育平台智能出题
-- ✅ 高校教学辅助系统
-- ✅ 个性化学习路径推荐
-- ✅ 知识掌握度评估
-- ✅ 自适应学习系统
-
----
-
-## 🤝 贡献指南
-
-我们欢迎所有形式的贡献！
-
-### 如何贡献
-
-1. **Fork** 本仓库
-2. **创建**特性分支 (`git checkout -b feature/AmazingFeature`)
-3. **提交**更改 (`git commit -m 'Add some AmazingFeature'`)
-4. **推送**到分支 (`git push origin feature/AmazingFeature`)
-5. **提交** Pull Request
-
-### 代码规范
-
-- **Python**: 遵循 PEP 8 规范
-- **Go**: 遵循 Go 官方代码规范
-- **JavaScript/TypeScript**: 遵循 ESLint 规则
-- **提交信息**: 使用 Conventional Commits 格式
 
 ---
 

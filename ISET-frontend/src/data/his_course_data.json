@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7001,
+    "name": "大学计算机—计算思维导论",
+    "school": "哈尔滨工业大学",
+    "teacher": "战德臣",
+    "start_time": "2025-02-17",
+    "end_time": "2025-06-30",
+    "progress": "已结课",
+    "views": 2477,
+    "image": "https://img-ph-mirror.nosdn.127.net/Pi-k3AX09Y8XVBePjsJJEQ==/6597828429681640478.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1461546165,
+    "name": "人工智能概论",
+    "school": "北京联合大学",
+    "teacher": "彭涛",
+    "start_time": "2025-02-17",
+    "end_time": "2025-07-26",
+    "progress": "已结课",
+    "views": 1996,
+    "image": "https://nos.netease.com/edu-image/9bfd7ee17e994564b6e222ccbeff56df.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 69005,
+    "name": "C语言程序设计精髓",
+    "school": "哈尔滨工业大学",
+    "teacher": "苏小红",
+    "start_time": "2025-02-17",
+    "end_time": "2025-08-17",
+    "progress": "进行中",
+    "views": 7705,
+    "image": "https://nos.netease.com/edu-image/18fe5fb0712e41a4b768db13bf42218f.png",
+    "category": "计算机科学"
+  },
+  {
+    "id": 56001,
+    "name": "程序设计基础",
+    "school": "哈尔滨工业大学",
+    "teacher": "苏小红",
+    "start_time": "2025-02-17",
+    "end_time": "2025-05-31",
+    "progress": "已结课",
+    "views": 1666,
+    "image": "https://nos.netease.com/edu-image/5d76aa7c46914aeca45b196c6adb4251.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1003538129,
+    "name": "计算机网络与通信技术",
+    "school": "北京交通大学",
+    "teacher": "刘彪",
+    "start_time": "2025-02-24",
+    "end_time": "2025-07-06",
+    "progress": "已结课",
+    "views": 1914,
+    "image": "https://nos.netease.com/edu-image/a18b7020e5374817b29f2834f617ddde.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1002355002,
+    "name": "C君带你玩编程",
+    "school": "昆明理工大学",
+    "teacher": "方娇莉",
+    "start_time": "2025-02-24",
+    "end_time": "2025-06-15",
+    "progress": "已结课",
+    "views": 274,
+    "image": "https://nos.netease.com/edu-image/2897ccd92ff14ec49672a4e026d5f8b1.png",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1449814164,
+    "name": "大数据技术导论",
+    "school": "北京理工大学",
+    "teacher": "王国仁",
+    "start_time": "2024-08-16",
+    "end_time": "2024-11-30",
+    "progress": "已结课",
+    "views": 1315,
+    "image": "http://nos.netease.com/edu-image/69c61bf9f2ff44f0992988d3ea25d22f.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 100001,
+    "name": "大学计算机--计算思维的视角",
+    "school": "山东大学",
+    "teacher": "郝兴伟",
+    "start_time": "2024-02-29",
+    "end_time": "2024-06-23",
+    "progress": "已结课",
+    "views": 848,
+    "image": "http://img-ph-mirror.nosdn.127.net/FPfl1_wEmtdhbjD-I6--LQ==/6619398648793464169.jpg",
+    "category": "计算机科学"
+  }
+]

@@ -1,0 +1,2 @@
+go build -o backend.exe main.go 编译后端
+./backend 运行后端

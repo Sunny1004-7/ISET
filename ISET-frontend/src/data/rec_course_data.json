@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1001614002,
+    "name": "大学计算机基础CAP",
+    "school": "国防科技大学",
+    "teacher": "周海芳",
+    "start_time": "2025-08-04",
+    "end_time": "2025-10-11",
+    "progress": "进行中",
+    "views": 1319,
+    "image": "https://nos.netease.com/edu-image/a28fdb4bb27449a9a812eaa00811de94.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 315001,
+    "name": "网络技术与应用",
+    "school": "中国人民解放军陆军工程大学",
+    "teacher": "沈鑫剡",
+    "start_time": "2025-08-20",
+    "end_time": "2025-12-20",
+    "progress": "未开课",
+    "views": 68,
+    "image": "https://img-ph-mirror.nosdn.127.net/eD_oI1lJaZJLL3P0s0I78w==/6630067210118600458.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 309001,
+    "name": "计算机组成原理（上）",
+    "school": "哈尔滨工业大学",
+    "teacher": "刘宏伟",
+    "start_time": "2025-08-18",
+    "end_time": "2025-12-21",
+    "progress": "未开课",
+    "views": 687,
+    "image": "https://img-ph-mirror.nosdn.127.net/OIg_5Lpiuhv6EtrYRLuwNA==/6630887445793811434.png",
+    "category": "计算机科学"
+  },
+  {
+    "id": 200001,
+    "name": "C语言程序设计进阶",
+    "school": "浙江大学",
+    "teacher": "翁恺",
+    "start_time": "2023-11-13",
+    "end_time": "2024-01-31",
+    "progress": "已结课",
+    "views": 81912,
+    "image": "http://img-ph-mirror.nosdn.127.net/tYhzuDVilzlDOo2bEyH_Qg==/6608226511143817333.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1003110002,
+    "name": "C语言程序设计",
+    "school": "西安邮电大学",
+    "teacher": "王春梅",
+    "start_time": "2025-08-18",
+    "end_time": "2026-01-15",
+    "progress": "未开课",
+    "views": 74,
+    "image": "https://nos.netease.com/edu-image/534df50979b74fed87c8118ac70d9df7.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1001941004,
+    "name": "Java程序设计",
+    "school": "北京大学",
+    "teacher": "唐大仕",
+    "start_time": "2025-09-08",
+    "end_time": "2026-01-05",
+    "progress": "未开课",
+    "views": 284,
+    "image": "https://nos.netease.com/edu-image/59d5ad495d574597875a1ee41735f839.png",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1002842007,
+    "name": "数据库系统原理",
+    "school": "北京师范大学",
+    "teacher": "党德鹏",
+    "start_time": "2025-08-25",
+    "end_time": "2026-01-16",
+    "progress": "未开课",
+    "views": 231,
+    "image": "https://nos.netease.com/edu-image/bf3299ba3762452e96b1fc871185d9a7.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 1002598057,
+    "name": "计算机网络自学笔记",
+    "school": "杭州电子科技大学",
+    "teacher": "徐建",
+    "start_time": "2025-09-15",
+    "end_time": "2026-01-25",
+    "progress": "未开课",
+    "views": 38,
+    "image": "https://nos.netease.com/edu-image/4237604c50b0405daaf230d01843bb6b.jpg",
+    "category": "计算机科学"
+  },
+  {
+    "id": 46016,
+    "name": "大学计算机",
+    "school": "西安交通大学",
+    "teacher": "吴宁",
+    "start_time": "2025-09-10",
+    "end_time": "2025-12-26",
+    "progress": "未开课",
+    "views": 420,
+    "image": "https://nos.netease.com/edu-image/3a579b20f2de467e88053b26b882aca7.jpg",
+    "category": "计算机科学"
+  },
+  {
+  "id": 488001,
+  "name": "数据库系统概论（基础篇）",
+  "school": "中国人民大学",
+  "teacher": "王珊",
+  "start_time": "2025-03-03",
+  "end_time": "2025-06-30",
+  "progress": "已结课",
+  "views": 3366,
+  "image": "https://nos.netease.com/edu-image/344e01f15bbc4570863e6d95933931fe.jpg",
+  "category": "计算机科学"
+  }
+]

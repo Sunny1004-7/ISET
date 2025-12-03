@@ -99,7 +99,7 @@ ISET（Intelligent Smart Education Technology）是一个基于AI多智能体的
 - **实时通信**: WebSocket (gorilla/websocket)
 
 ### AI算法模块
-- **语言**: Python 3.7
+- **语言**: Python 3.12
 - **深度学习**: TensorFlow 1.14.0
 - **多智能体框架**: AutoGen 0.7.0
 - **大语言模型**: OpenAI 1.99.6
@@ -550,14 +550,6 @@ llm_config = {
 - **项目主页**: [https://github.com/Sunny1004-7/SUNNY-AITEACH](https://github.com/Sunny1004-7/SUNNY-AITEACH)
 - **问题反馈**: [Issues](https://github.com/Sunny1004-7/SUNNY-AITEACH/issues)
 - **讨论区**: [Discussions](https://github.com/Sunny1004-7/SUNNY-AITEACH/discussions)
-
----
-
-## ⭐ Star History
-
-如果这个项目对你有帮助，请给我们一个 ⭐️ Star！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Sunny1004-7/SUNNY-AITEACH&type=Date)](https://star-history.com/#Sunny1004-7/SUNNY-AITEACH&Date)
 
 ---
 

@@ -18,7 +18,7 @@
 
 ## 📖 项目简介
 
-ISET（Intelligent Smart Education Technology）是面向西安交通大学教改项目开发的智慧教育系统，专注于AI出题模块。系统整合了**知识图谱**、**大语言模型**和**多智能体技术**，为教师和学生提供个性化的教学与学习支持。
+ISET（Intelligent Smart Education Technology）是一个基于AI多智能体的智慧教育系统，整合了**知识图谱**、**大语言模型**和**多智能体技术**，为教师和学生提供个性化的教学与学习支持。
 
 ### 核心价值
 
@@ -117,14 +117,14 @@ ISET（Intelligent Smart Education Technology）是面向西安交通大学教�
 
 ### 环境要求
 
-#### 硬件要求
-- **GPU**: NVIDIA RTX 3080 10GB (或同等性能)
-- **CPU**: Intel Xeon Silver 4210R (或同等性能)
+#### 硬件配置
+- **GPU**: NVIDIA RTX 4060 8GB 
+- **CPU**: Intel Xeon Silver 4210R 
 - **内存**: 128GB DDR4 3200MHz
 
-#### 软件要求
-- **操作系统**: Windows 10/11, Linux, macOS
-- **Python**: 3.7
+#### 软件配置
+- **操作系统**: Windows 11
+- **Python**: 3.12
 - **Go**: 1.22.5 或更高
 - **Node.js**: 16.0 或更高
 - **CUDA**: 10.2
@@ -545,19 +545,6 @@ llm_config = {
 
 ---
 
-## 👥 团队
-
-### 项目开发
-- **西安交通大学** - 教改项目组
-- **课题**: 机器学习教改-AI出题模块
-
-### 致谢
-- AutoGen团队提供的多智能体框架
-- MOOCCubeX数据集支持
-- Pure Admin前端模板
-
----
-
 ## 📞 联系方式
 
 - **项目主页**: [https://github.com/Sunny1004-7/SUNNY-AITEACH](https://github.com/Sunny1004-7/SUNNY-AITEACH)
@@ -578,6 +565,6 @@ llm_config = {
 
 **让教育更智慧，让学习更个性化**
 
-Made with ❤️ by XJTU Team
+Made with ❤️ by SUNNY
 
 </div>

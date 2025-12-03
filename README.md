@@ -3,7 +3,7 @@
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.7-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Go](https://img.shields.io/badge/go-1.22.5-00ADD8.svg)
 ![Vue](https://img.shields.io/badge/vue-3.2.45-4FC08D.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1.14.0-FF6F00.svg)

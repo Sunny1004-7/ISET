@@ -1,4 +1,4 @@
-       # ISET - Intelligent Smart Education Technology
+# ISET - Intelligent Smart Education Technology
 
 <div align="center">
 
